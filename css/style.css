@@ -245,42 +245,6 @@ ul {
   100% {
     content: "|";
   }
-
-  /* 0%{content: 'Designer|';}
-    3%{content: 'Designe|';}
-    6%{content: 'Design|';}
-    9%{content: 'Desig|';}
-    12%{content: 'Desi|';}
-    15%{content: 'Des|';}
-    18%{content: 'De|';}
-    21%{content: 'D|';}
-    24%{content: '|';}
-    27%{content: 'D|';}
-    30%{content: 'De|';}
-    34%{content: 'Dev|';}
-    37%{content: 'Deve|';}
-    40%{content: 'Devel|';}
-    43%{content: 'Develo|';}
-    47%{content: 'Develop';}
-    50%{content: 'Develope|';}
-    53%{content: 'Developer|';}
-    56%{content: 'Develope|';}
-    60%{content: 'Develop|';}
-    63%{content: 'Develo|';}
-    66%{content: 'Devel|';}
-    70%{content: 'Deve|';}
-    73%{content: 'Dev|';}
-    76%{content: 'De|';}
-    80%{content: 'D|';}
-    83%{content: '|';}
-    86%{content: 'D|';}
-    89%{content: 'De|';}
-    91%{content: 'Des|';}
-    94%{content: 'Desi|';}
-    96%{content: 'Desig|';}
-    98%{content: 'Dsign|';}
-    99%{content: 'Designe|';}
-    100%{content: 'Designer|';} */
 }
 
 /* man */
